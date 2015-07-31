@@ -12,7 +12,7 @@
       "defaultRadius": 5
     },
     "aws": {
-      "bucket": "list-io",
+      "bucket": "locals-io",
       "accessKey": "AKIAIHNTU4VVKCXO25OQ",
       "secretKey": "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"
     },
