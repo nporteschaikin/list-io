@@ -1,0 +1,42 @@
+{
+  "base": {
+    "defaultRadius": 5,
+    "session": {
+      "prefix": "list"
+    },
+    "facebook": {
+      "clientId": "870598423018391",
+      "clientSecret": "1a2a5c89297de684b082b068691c9bca"
+    },
+    "aws": {
+      "bucket": "locals-io",
+      "accessKey": "AKIAIHNTU4VVKCXO25OQ",
+      "secretKey": "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"
+    },
+    "aps": {
+      "passphrase": "Quails22#!"
+    }
+  },
+
+  "development": {
+    "mongo": {
+      "url": "mongodb://localhost/list"
+    },
+    "redis": {
+      "host": "localhost",
+      "port": 6379
+    }
+  },
+
+  "production": {
+    "mongo": {
+      "url": "mongodb://heroku_x5vkcxkp:gndu2lfkognsp3nll03j6k4v56@ds047792.mongolab.com:47792/heroku_x5vkcxkp"
+    },
+    "redis": {
+      "host": "pub-redis-14868.us-east-1-4.2.ec2.garantiadata.com",
+      "port": 14868,
+      "auth": "Xt8L727CilT8DTsn"
+    }
+  }
+
+}
