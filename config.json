@@ -4,6 +4,10 @@
     "session": {
       "prefix": "list"
     },
+    "facebook": {
+      "clientId": "870598423018391",
+      "clientSecret": "1a2a5c89297de684b082b068691c9bca"
+    },
     "google": {
       "apiKey": "AIzaSyAsg0fc4b5evP5re400dxZ4l7ZhINGaoIk"
     },
