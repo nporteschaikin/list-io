@@ -15,6 +15,11 @@
     },
     "aps": {
       "passphrase": "Quails22#!"
+    },
+    "foursquare": {
+      "versionDate": "20151124",
+      "clientId": "NBXN5YLPGDB2BI5SCRNQXVSWI41HNHC5L34OVPOWGPMM0RQD",
+      "clientSecret": "D5GFFDJPW5RHA3RKD2NYCYDFIDXEJTOXMLTI3EH5QUG3HX12"
     }
   },
 
